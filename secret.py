@@ -1,5 +1,0 @@
-# App secrets
-
-api_key = "dnSZjxxxcq6HwUx6wMD45uEoR"
-api_secret = "rusCgDScmXRoy2hFcZgWdmN6EFwJLShGlv1pQhvxTWplV2vTY9"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAI9OWQEAAAAAAZEocK9VLjH%2BGOdclvQAr4B8990%3Dt1A9oJjh1fJSaCxFBv3Hc7G9pllSOyApKD5Jhy0lb7V6ak9sn8"
