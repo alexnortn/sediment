@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Client secrets
+secrets.py
+
+# Data
+data/*
+data-test/*
